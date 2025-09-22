@@ -38,7 +38,7 @@ const projects = [
     title: "Crypto Tracker App",
     blurb: "Single-page crypto tracking & conversion app showing top 12 cryptocurrencies with logos, current prices, 24h/7d price changes (with color indicators), and real-time crypto-to-crypto conversion.",
     stack: ["React", "Vite", "SCSS", "Axios", "React Router"],
-    demo: "https://crypto-tracker-6jgghe32p-ankita-ojhas-projects.vercel.app/",
+    demo: "https://crypto-tracker-sable-theta.vercel.app/",
     code: "https://github.com/AnkitaO16/crypto-tracker",
   }
 ];
