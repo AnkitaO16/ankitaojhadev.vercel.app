@@ -53,7 +53,7 @@ export function Navbar() {
             Contact
           </Link>
           <a
-            href="/Ankita_Ojha_25_2509.pdf"
+            href="/Ankitaojha.pdf"
             download="Ankita_Ojha_Resume.pdf"
             className="btn btn-outline text-sm"
           >
